@@ -14,3 +14,4 @@ This project trains a PyTorch convolutional neural network (CNN) to classify pla
 ## Highlights
 - CNN trained on multi-class image dataset
 - Reinforced understanding of architecture design and evaluation metrics
+- Dataset download: !kaggle datasets download -d gpiosenka/cards-image-datasetclassification
