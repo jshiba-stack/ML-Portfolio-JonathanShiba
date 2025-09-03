@@ -4,20 +4,18 @@ Hi, I'm Jonathan Shiba, an **Applied ML/AI Engineer** building data-driven solut
 
 ## Featured Projects  
 
-### 1. EEG Signal Preprocessing & BCI Neural Decoding
+### 1. [EEG Signal Preprocessing & BCI Neural Decoding](./EEG_BCI_Signal_Processing/README.md)
   - Applied **bandpass (8–30 Hz) and notch (60 Hz) filtering** to clean noisy EEG signals.  
   - Visualized frequency components using **FFT & Power Spectral Density (PSD)**.  
   - Identified and interpolated noisy channels for **real-time BCI readiness**.  
   - **Stack**: Python, MNE-Python, NumPy, Matplotlib.  
-[View Project](./EEG_BCI_Signal_Processing/README.md)
   
-### 2. Card Image Classifier
+### 2. [Card Image Classifier](./Card_Classifier_CNN/README.md)
   Trained a **convolutional neural network (CNN)** in PyTorch to classify playing card images from a Kaggle dataset.  
   - Implemented **data preprocessing & augmentation** pipelines.  
   - Designed & trained a CNN for **multi-class image recognition**.  
   - Strengthened skills in **model evaluation & architecture design**.  
   - **Stack**: Python, PyTorch, Torchvision, Matplotlib.
-[View Project](./Card_Classifier_CNN/README.md)
 
 ---
 
