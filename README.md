@@ -1,4 +1,4 @@
-**Applied ML/AI Engineer** passionate about building data-driven solutions that bridge research and real-world applications. My focus is on **applied AI**, with hands-on experience in signal processing, computer vision, and deep learning.  
+Hi, I'm Jonathan Shiba, an **Applied ML/AI Engineer** building data-driven solutions that bridge research and real-world applications. My current focus is on **applied AI**, with hands-on experience in signal processing, computer vision, and deep learning.  
 
 ---
 
